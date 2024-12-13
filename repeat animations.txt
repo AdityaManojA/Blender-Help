@@ -1,0 +1,24 @@
+Steps to Loop Keyframes:
+Select the Object:
+
+Make sure the animated object (e.g., the "Armature") is selected.
+Open the Graph Editor:
+
+Switch to the Graph Editor view in the Blender workspace.
+Select the Animation Data:
+
+In the Graph Editor, ensure the specific animation curves (e.g., Location, Rotation, etc.) are visible and selected.
+Add a Cyclic Modifier:
+
+Press N to open the side panel in the Graph Editor (if it’s not already visible).
+Expand the Modifiers tab.
+Select one or more animation curves (e.g., Y Location) and click Add Modifier → Cycles.
+Adjust Cycle Behavior:
+
+The Cycles modifier will loop the animation indefinitely by default.
+You can customize it:
+Before: Repeat the animation before the first keyframe.
+After: Repeat the animation after the last keyframe.
+Play the Animation:
+
+Your animation should now seamlessly loop.

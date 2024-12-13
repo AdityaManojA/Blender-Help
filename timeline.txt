@@ -1,0 +1,6 @@
+Animation tips
+
+Use Sync to audio in timeline play back for consistent playback
+Use 24 fps for motion blur and 30 when not using motion blur
+Use preview range when a certain range is needed to be edited instead of the full timeline
+Use markers (M) to set framedata on the timeline 
