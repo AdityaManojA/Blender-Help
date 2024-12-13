@@ -1,1 +1,4 @@
 Dope Sheet
+
+cntrl+ G - group animators
+view> show sliders for better details
