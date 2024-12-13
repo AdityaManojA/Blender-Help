@@ -5,3 +5,4 @@ cntrl T - set up mapping for nodes (Node wrangler addon)
 cntrl + Tab- Graph editor
 P in Timeline or graph editor for setting preview range
 V in graph editor to set Handle type
+T in graph editor to set interpolation type for the handle
