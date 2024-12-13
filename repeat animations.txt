@@ -22,3 +22,19 @@ After: Repeat the animation after the last keyframe.
 Play the Animation:
 
 Your animation should now seamlessly loop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+Important Shortcuts 
+
+shift F3 - Shader editor
+cntrl T - set up mapping for nodes (Node wrangler addon)
+cntrl + Tab- Graph editor
