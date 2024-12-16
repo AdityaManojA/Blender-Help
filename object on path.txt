@@ -1,3 +1,0 @@
-Create a path , edit it using tab mode and extrude and move vertices to make the path
-go to the object set object constraint to the object set follow path as the constraint 
-https://www.youtube.com/watch?v=eRdsa6GYemg for reference 

@@ -1,3 +1,0 @@
-Use driver on the properties tab (N) to set a object to move its loc/rot on 
-Use this after the object and axis have been parented 
-Select object and axis press cntrl+P
